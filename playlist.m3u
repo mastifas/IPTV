@@ -1,0 +1,57 @@
+﻿#EXTM3U
+#EXTINF:-1,Indigo
+http://83.166.48.35:8888/udp/235.35.1.4:1234
+#EXTINF:-1,Donbass
+http://83.166.48.35:8888/udp/235.35.1.5:1234
+#EXTINF:-1,Viasat Sport Baltic
+http://83.166.48.35:8888/udp/235.35.1.6:1234
+#EXTINF:-1,Viasat Nature
+http://83.166.48.35:8888/udp/235.35.1.7:1234
+#EXTINF:-1,Viasat History
+http://83.166.48.35:8888/udp/235.35.1.8:1234
+#EXTINF:-1,ETV
+http://83.166.48.35:8888/udp/235.35.1.10:1234
+#EXTINF:-1,ETV2
+http://83.166.48.35:8888/udp/235.35.1.11:1234
+#EXTINF:-1,Kanal 2
+http://83.166.48.35:8888/udp/235.35.1.12:1234
+#EXTINF:-1,Lietuvos Rytas TV
+http://83.166.48.35:8888/udp/235.35.1.13:1234
+#EXTINF:-1,LNK
+http://83.166.48.35:8888/udp/235.35.1.14:1234
+#EXTINF:-1,3+ vip-tv.org.ua
+http://83.166.48.35:8888/udp/235.35.1.16:1234
+#EXTINF:-1,TV1 Lithuania
+http://83.166.48.35:8888/udp/235.35.1.15:1234
+#EXTINF:-1,Kanal 11
+http://83.166.48.35:8888/udp/235.35.1.17:1234
+#EXTINF:-1,LNT Latvia
+http://83.166.48.35:8888/udp/235.35.1.19:1234
+#EXTINF:-1,LTV1
+http://83.166.48.35:8888/udp/235.35.1.20:1234
+#EXTINF:-1,Kanals 2
+http://83.166.48.35:8888/udp/235.35.1.18:1234
+#EXTINF:-1,TV3 Latvia
+http://83.166.48.35:8888/udp/235.35.1.22:1234
+#EXTINF:-1,TV3 Estonia
+http://83.166.48.35:8888/udp/235.35.1.21:1234
+#EXTINF:-1,TV3 Lithuania
+http://83.166.48.35:8888/udp/235.35.1.23:1234
+#EXTINF:-1,TV6 Latvia
+http://83.166.48.35:8888/udp/235.35.1.25:1234
+#EXTINF:-1,TV6 Estonia
+http://83.166.48.35:8888/udp/235.35.1.24:1234
+#EXTINF:-1,TV6 Lithuania
+http://83.166.48.35:8888/udp/235.35.1.26:1234
+#EXTINF:-1,LV-OTV
+http://dvb.gpsystems.lv:4242/bysid/5150?by_HasBahCa
+#EXTINF:-1,LV-OTV
+http://dvb.gpsystems.lv:4242/bynumber/5?by_HasBahCa
+#EXTINF:-1,,LV-Re:TV
+http://dvb.gpsystems.lv:4242/bynumber/2?by_HasBahCa
+#EXTINF:-1,LV-Re:TV
+http://dvb.gpsystems.lv:4242/bysid/5120?by_HasBahCa
+#EXTINF:-1,LV-Riga TV24
+http://dvb.gpsystems.lv:4242/bynumber/4?by_HasBahCa
+#EXTINF:-1,LV-Riga TV24
+http://dvb.gpsystems.lv:4242/bysid/5140?by_HasBahCa
